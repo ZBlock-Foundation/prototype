@@ -1,2 +1,2 @@
 # prototype
-Proof of Concept version developed in the Consensys Academy
+Proof of Concept version 0.1
