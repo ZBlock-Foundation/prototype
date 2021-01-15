@@ -37,7 +37,7 @@ const Header = () => {
           <h1>
             Welcome To ZBlock!
             <br />
-            Create or Invest Communities
+            Create or Invest Communities on Blockchain
           </h1>
           <Link to="/app" className="btn btn-full">
             Go To App{" "}
